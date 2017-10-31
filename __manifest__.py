@@ -6,5 +6,6 @@
 
   'data': [ 'views/layout.xml', 'views/assets.xml'],
   'category': 'Theme/Creative',
-  'depends': ['website','website_blog'],
+  'depends': ['website'],
+  'application': False,
 }
