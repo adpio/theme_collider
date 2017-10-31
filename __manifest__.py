@@ -4,7 +4,7 @@
   'version':'0.1',
   'author':'Adam Piotrowski',
 
-  'data': [ 'views/layout.xml', 'views/assets.xml', 'views/footer.xml','views/snippets.xml'],
+  'data': [ 'views/layout.xml', 'views/assets.xml', 'views/footer.xml'],
   'category': 'Theme/Creative',
   'depends': ['website'],
   'application': False,
