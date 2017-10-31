@@ -19,8 +19,7 @@
 				<span class="icon-bar"></span>
 			</button>
 			<a class="navbar-brand scroll-link" href="#home" data-id="home">
-				<img src="images/logo.png" style="max-width: 100px;">
-				<!-- 						<img src="images/Logo_90px.png" style="margin-top:-5px;margin-left:-7.5px;max-height:50px;"> -->
+				<img src="images/logo.png" style="max-width: 100px;" />
 			</a>
 		</div>
 
@@ -68,7 +67,7 @@
 
 
 
-	
+
     <div class="navbar navbar-default navbar-static-top">
         <div class="container">
             <div class="navbar-header">
