@@ -15,10 +15,10 @@
 		<div class="row mb30">
 			<!-- Logo -->
 			<div class="col-sm-3">
-				<span class="icon-handle-streamline-vector logo"></span>
-				<h2 class="theme-title pull-left mr15">P<span class="theme-title-smaller">T</span></h2>
+				<img src="/theme_collider/static/img/icon_white_sm.png" class="logo"/>
+				<h2 class="theme-title pull-left mr15">i<span class="theme-title-smaller">C</span></h2>
 				<p class="no-margin text-switch">
-					Officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates. Temporibus autem quibusdam et aut.
+					Tell us your story and we will find a way to better engage your customers, create additional value and help you solve critical problems.
 				</p>
 			</div><!-- /.column -->
 
@@ -31,30 +31,26 @@
                     <li><a t-att-href="website.social_googleplus" t-if="website.social_googleplus"><i class="ion-social-googleplus-outline"></i></a></li>
                     <li><a t-att-href="website.social_linkedin" t-if="website.social_linkedin"><i class="ion-social-linkedin"></i></a></li>
                     <li><a t-att-href="website.social_youtube" t-if="website.social_youtube"><i class="ion-social-youtube"></i></a></li>
-                    <li><a href="#"><i class="ion-social-dropbox"></i></a></li>
-                    <li><a href="#"><i class="ion-social-foursquare"></i></a></li>
                     <li><a t-att-href="website.social_github" t-if="website.social_github"><i class="ion-social-github"></i></a></li>
-                    <li><a href="#"><i class="ion-social-instagram-outline"></i></a></li>
-                    <li><a href="#"><i class="ion-social-snapchat-outline"></i></a></li>
                 </ul>
 			</div><!-- /.column -->
 
 			<!-- List -->
 			<div class="col-sm-3">
-				<h5 class="heading-1 mb20">List</h5>
+				<h5 class="heading-1 mb20">Explore our services</h5>
 				<ul class="list-arrow list-arrow-color no-margin text-small">
-				    <li>Lorem ipsum dolor sit aut</li>
-				    <li>Integer eu neque arcu</li>
-				    <li>Officiis debitis au rerum</li>
-				    <li>Cras imperdiet eget dictum</li>
-				    <li>Lorem ipsum dolor</li>
+				    <li>Deep Learning with Deep.bi</li>
+				    <li>Robot Process Automation with G1ANT</li>
+				    <li>Video Engagement with Vintom</li>
+				    <li>Mobile apps A/B testing with LeanPlum</li>
+				    
 				</ul>
 			</div><!-- /.column -->
 
 			<!-- Contact -->
 			<div class="col-sm-3 mt30-xs">
 				<h5 class="heading-1 mb20">Contact Us</h5>
-				<h5 class="mb15">142 Pelican Drive • 1252nd Floor, Suite 420 New York City, New York 99912</h5>
+				<h5 class="mb15">Innovation Collider SRO • Slovakia, Poland, Spain, Chile, Peru</h5>
 				<p class="text-xs-small mb5"><strong class="text-switch">Email:</strong><span t-field="res_company.email"></span></p>
 				<p class="text-xs-small mb5"><strong class="text-switch">Phone:</strong><span t-field="res_company.phone"></span></p>
 			</div><!-- /.column -->
