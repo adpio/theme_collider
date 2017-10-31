@@ -1,0 +1,10 @@
+<template id="mystyle" name="Particles Styles" inherit_id="website.assets_frontend">
+    <xpath expr="link[last()]" position="after">
+        <link href="/theme_collider/static/css/style.less" rel="stylesheet" type="text/css"/>
+        <link href="/theme_collider/static/css/ionicons.min.css" rel="stylesheet"  type="text/css"/>
+		<link href="/theme_collider/static/css/pe-icon-7-stroke.css" rel="stylesheet"  type="text/css"/>
+		<link href="/theme_collider/static/css/magnific-popup.css" rel="stylesheet"  type="text/css"/>
+		<link href="/theme_collider/static/css/logoiconfont.css" rel="stylesheet"  type="text/css"/>
+		<link href="/theme_collider/static/css/style.css" rel="stylesheet" title="main-css" type="text/css"/>
+    </xpath>
+</template>
