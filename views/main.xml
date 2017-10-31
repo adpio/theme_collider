@@ -783,12 +783,12 @@
 
             			}
             		</script>
-            		<script type="text/javascript" src="/js/particles.min.js"></script>
-            		<script type="text/javascript" src="js/particlesRun.js"></script>
-            		<script type="text/javascript" src="js/jquery.mixitup.js"></script>
-            		<script type="text/javascript" src="js/form-validator.min.js"></script>  
-            		<script type="text/javascript" src="js/jquery.inview.min.js"></script>
-            		<script type="text/javascript" src="js/jquery.countTo.js"></script>  
+            		<script type="text/javascript" src="/theme_collider/static/js/particles.min.js"></script>
+            		<script type="text/javascript" src="/theme_collider/static/js/particlesRun.js"></script>
+            		<script type="text/javascript" src="/theme_collider/static/js/jquery.mixitup.js"></script>
+            		<script type="text/javascript" src="/theme_collider/static/js/form-validator.min.js"></script>  
+            		<script type="text/javascript" src="/theme_collider/static/js/jquery.inview.min.js"></script>
+            		<script type="text/javascript" src="/theme_collider/static/js/jquery.countTo.js"></script>  
             		<script type="text/javascript">
             			/* ---- Counter (our count) ---- */
             			$('#ourcount').one('inview', function(event, isInView) {
@@ -797,9 +797,9 @@
             				}
             			});
             		</script>
-            		<script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
-            		<script type="text/javascript" src="js/scrollreveal.min.js"></script>
-            		<script type="text/javascript" src="js/main.js"></script>
+            		<script type="text/javascript" src="/theme_collider/static/js/jquery.magnific-popup.min.js"></script>
+            		<script type="text/javascript" src="/theme_collider/static/js/scrollreveal.min.js"></script>
+            		<script type="text/javascript" src="/theme_collider/static/js/main.js"></script>
 
 
 																														<!-- === Snippets' area === -->
