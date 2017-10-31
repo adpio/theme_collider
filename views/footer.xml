@@ -5,7 +5,7 @@
 <template id="footer_default" inherit_id="website.footer_custom" customize_show="True" name="Automatic Footer">
 
   <!-- Assign an id  -->
-  <xpath expr="//foter" position="attributes">
+  <xpath expr="//footer" position="attributes">
     <attribute name="class">background1 footer-padding</attribute>
   </xpath>
 
