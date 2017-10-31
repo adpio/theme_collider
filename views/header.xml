@@ -2,6 +2,13 @@
 <odoo>
 <data>
 
+<template id="layout_logo_show" inherit_id="website.layout" customize_show="True" name="Show Logo">
+    <xpath expr="//header//a[hasclass('navbar-brand')]" position="replace">
+        <a href="/" class="navbar-brand logo">
+           <img src="/land/images/logo.png" style="max-width: 100px;" />
+        </a>
+    </xpath>
+</template>
 
 </data>
 </odoo>
