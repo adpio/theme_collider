@@ -1,4 +1,6 @@
-
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+  <data>
 
 <template id="snippet_products" name="Products Snippet">
 	<section id="work"  class="snippet_products background1 section-padding-top" >
@@ -122,3 +124,7 @@
 			t-thumbnail="/theme_collider/static/src/img/ui/snippet_thumb.jpg"/>
 		</xpath>
 	</template>
+
+
+  </data>
+</odoo>
