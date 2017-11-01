@@ -15,8 +15,8 @@
 		<div class="row mb30">
 			<!-- Logo -->
 			<div class="col-sm-3">
-				<img src="/theme_collider/static/src/img/icon_white_sm.png" alt="little logo" class="logo"/>
-				<h2 class="theme-title pull-left mr15">i<span class="theme-title-smaller">C</span></h2>
+				<div class="logo">innovation collider</div>
+				
 				<p class="no-margin text-switch">
 					Tell us your story and we will find a way to better engage your customers, create additional value and help you solve critical problems.
 				</p>
