@@ -13,11 +13,11 @@
 
   <!-- Add an element after the top menu  -->
   <xpath expr="//div[@id='wrapwrap']/header/div" position="after">
-    <div class="container">
 
-    </div>
   </xpath>
 </template>
+
+
 
 
   </data>
