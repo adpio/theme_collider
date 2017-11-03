@@ -2,8 +2,7 @@
 <odoo>
 <data>
 
-<template id="particles_services_snippet" inherit_id="website.snippets">
-  <xpath expr="//div[@id='snippet_content']/div[@class='o_panel_body']" position="inside">
+<template id="particles_services_snippet" name="Particle Services">
 
   <!-- Begin Services -->
   <section class="particles_services_snippet">
@@ -215,7 +214,6 @@
   </section><!-- /.section -->
   <!-- End Services -->
 
-</xpath>
 </template>
 
 <template id="place_into_bar" inherit_id="website.snippets" name="Place into bar">
