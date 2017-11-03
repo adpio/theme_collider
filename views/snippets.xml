@@ -28,7 +28,7 @@
 
 <template id="place_into_bar" inherit_id="website.snippets" name="Place into bar">
   <xpath expr="//div[@id='snippet_content']/div[@class='o_panel_body']" position="inside">
-    <t t-snippet="theme_tutorial.snippet_testimonial"
+    <t t-snippet="theme_collider.snippet_testimonial"
        t-thumbnail="/theme_tutorial/static/src/img/ui/snippet_thumb.jpg"/>
   </xpath>
 </template>
