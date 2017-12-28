@@ -11,8 +11,8 @@
 
 <xpath expr="//div[@id='footer']" position="replace">
    
-	<div class="container">
-		<div class="row mb30" style="margin-top:15px;">
+	<div class="container" style="margin-top:15px;">
+		<div class="row mb30">
 			<!-- Logo -->
 			<div class="col-sm-3">
 				<img src="/theme_collider/src/img/icon_white_sm.png"/>
