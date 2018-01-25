@@ -13,47 +13,7 @@
    
 	<div class="container" style="margin-top:15px;">
 		<div class="row mb30">
-			<!-- Logo -->
-			<div class="col-sm-3">
-				<img src="/theme_collider/src/img/icon_white_sm.png"/>
-				
-				<p class="no-margin text-switch">
-					Tell us your story and we will find a way to better engage your customers, create additional value and help you solve critical problems.
-				</p>
-			</div><!-- /.column -->
-
-			<!-- Social -->
-			<div class="col-sm-3 mt30-xs">
-				<h5 class="heading-1 mb20">Social</h5>
-				<ul class="list-inline social-buttons">
-                    <li><a t-att-href="website.social_twitter" t-if="website.social_twitter"><i class="ion-social-twitter"></i></a></li>
-                    <li><a t-att-href="website.social_facebook" t-if="website.social_facebook"><i class="ion-social-facebook"></i></a></li>
-                    <li><a t-att-href="website.social_googleplus" t-if="website.social_googleplus"><i class="ion-social-googleplus-outline"></i></a></li>
-                    <li><a t-att-href="website.social_linkedin" t-if="website.social_linkedin"><i class="ion-social-linkedin"></i></a></li>
-                    <li><a t-att-href="website.social_youtube" t-if="website.social_youtube"><i class="ion-social-youtube"></i></a></li>
-                    <li><a t-att-href="website.social_github" t-if="website.social_github"><i class="ion-social-github"></i></a></li>
-                </ul>
-			</div><!-- /.column -->
-
-			<!-- List -->
-			<div class="col-sm-3">
-				<h5 class="heading-1 mb20">Explore our services</h5>
-				<ul class="list-arrow list-arrow-color no-margin text-small">
-				    <li>Deep Learning with Deep.bi</li>
-				    <li>Robot Process Automation with G1ANT</li>
-				    <li>Video Engagement with Vintom</li>
-				    <li>Mobile apps A/B testing with LeanPlum</li>
-				    
-				</ul>
-			</div><!-- /.column -->
-
-			<!-- Contact -->
-			<div class="col-sm-3 mt30-xs">
-				<h5 class="heading-1 mb20">Contact Us</h5>
-				<h5 class="mb15">Innovation Collider SRO • Slovakia, Poland, Spain, Chile, Peru</h5>
-				<p class="text-xs-small mb5"><strong class="text-switch">Email:</strong><span t-field="res_company.email"></span></p>
-				<p class="text-xs-small mb5"><strong class="text-switch">Phone:</strong><span t-field="res_company.phone"></span></p>
-			</div><!-- /.column -->
+			2018 Innovation Collider sro
 		</div>
 	</div><!-- /.container -->
 </xpath>
